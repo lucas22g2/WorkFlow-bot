@@ -1,0 +1,14 @@
+2026/10/01-09:58:41.914 452c Reusing MANIFEST C:\Users\aluno\Documents\2°DES.SIST\bot_Whattsap\bot-whatsapp\.wwebjs_auth\session-bot-segundo-numero\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/01-09:58:41.923 452c Recovering log #21
+2026/10/01-09:58:41.941 452c Reusing old log C:\Users\aluno\Documents\2°DES.SIST\bot_Whattsap\bot-whatsapp\.wwebjs_auth\session-bot-segundo-numero\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000021.log 
+2026/10/01-09:58:45.231 3910 Level-0 table #27: started
+2026/10/01-09:58:45.244 3910 Level-0 table #27: 1170797 bytes OK
+2026/10/01-09:58:45.245 3910 Delete type=0 #21
+2026/10/01-09:58:45.430 3910 Compacting 1@1 + 2@2 files
+2026/10/01-09:58:45.475 3910 Generated table #28@1: 48671 keys, 2207026 bytes
+2026/10/01-09:58:45.480 3910 Generated table #29@1: 2836 keys, 226022 bytes
+2026/10/01-09:58:45.480 3910 Compacted 1@1 + 2@2 files => 2433048 bytes
+2026/10/01-09:58:45.481 3910 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/10/01-09:58:45.481 3910 Delete type=2 #23
+2026/10/01-09:58:45.481 3910 Delete type=2 #24
+2026/10/01-09:58:45.481 3910 Delete type=2 #27

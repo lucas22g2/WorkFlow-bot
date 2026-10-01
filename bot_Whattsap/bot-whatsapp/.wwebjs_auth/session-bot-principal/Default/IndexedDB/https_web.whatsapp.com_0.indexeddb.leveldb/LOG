@@ -1,0 +1,5 @@
+2026/10/01-08:20:06.177 3998 Creating DB C:\Users\aluno\Documents\2°DES.SIST\bot_Whattsap\bot-whatsapp\.wwebjs_auth\session-bot-principal\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/10/01-08:20:06.179 3998 Reusing MANIFEST C:\Users\aluno\Documents\2°DES.SIST\bot_Whattsap\bot-whatsapp\.wwebjs_auth\session-bot-principal\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/01-08:20:06.179 3998 Recovering log #373
+2026/10/01-08:20:06.184 3998 Reusing old log C:\Users\aluno\Documents\2°DES.SIST\bot_Whattsap\bot-whatsapp\.wwebjs_auth\session-bot-principal\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000373.log 
+2026/10/01-08:20:06.184 3998 Delete type=2 #374

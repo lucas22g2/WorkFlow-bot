@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Etanol na Gasolina</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Medidor de Etanol</h1>
+        <p class="subtitle">Insira os dados do teste da proveta de 100ml</p>
+        
+        <form id="calcForm">
+            <div class="input-group">
+                <label for="gasolinaInicial">Gasolina Inicial (ml):</label>
+                <input type="number" id="gasolinaInicial" value="50" readonly>
+                <small>Padrão do teste: 50ml de gasolina</small>
+            </div>
+
+            <div class="input-group">
+                <label for="aguaInicial">Água Inicial (ml):</label>
+                <input type="number" id="aguaInicial" value="50" readonly>
+                <small>Padrão do teste: 50ml de água com sal</small>
+            </div>
+
+            <div class="input-group">
+                <label for="camadaAgua">Volume final da camada de água (ml):</label>
+                <input type="number" id="camadaAgua" placeholder="Ex: 63.5" step="0.1" required>
+                <small>Olhe na proveta o novo volume da parte transparente/inferior</small>
+            </div>
+
+            <button type="button" onclick="calcularEtanol()">Calcular Porcentagem</button>
+        </form>
+
+        <div id="resultado" class="hidden">
+            <h2>Resultado:</h2>
+            <p id="porcentagemTxt">0%</p>
+            <p id="statusTxt"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

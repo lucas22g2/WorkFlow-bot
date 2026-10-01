@@ -1,0 +1,57 @@
+2026/10/01-10:12:48.190 4f4 Creating DB C:\Users\aluno\Documents\2°DES.SIST\bot_Whattsap\bot-whatsapp\.wwebjs_auth\session-bot-escola\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/10/01-10:12:48.194 4f4 Reusing MANIFEST C:\Users\aluno\Documents\2°DES.SIST\bot_Whattsap\bot-whatsapp\.wwebjs_auth\session-bot-escola\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/01-10:13:27.690 4544 Level-0 table #5: started
+2026/10/01-10:13:27.734 4544 Level-0 table #5: 1057222 bytes OK
+2026/10/01-10:13:27.736 4544 Delete type=0 #3
+2026/10/01-10:13:27.943 4544 Level-0 table #7: started
+2026/10/01-10:13:27.959 4544 Level-0 table #7: 1044110 bytes OK
+2026/10/01-10:13:27.961 4544 Delete type=0 #4
+2026/10/01-10:13:28.004 4f4 Compacting 1@1 + 1@2 files
+2026/10/01-10:13:28.028 4f4 Generated table #8@1: 21537 keys, 859134 bytes
+2026/10/01-10:13:28.028 4f4 Compacted 1@1 + 1@2 files => 859134 bytes
+2026/10/01-10:13:28.029 4f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:13:28.029 4f4 Delete type=2 #5
+2026/10/01-10:13:28.029 4f4 Delete type=2 #7
+2026/10/01-10:13:28.538 4f4 Level-0 table #10: started
+2026/10/01-10:13:28.552 4f4 Level-0 table #10: 983446 bytes OK
+2026/10/01-10:13:28.554 4f4 Delete type=0 #6
+2026/10/01-10:13:28.555 4f4 Compacting 1@1 + 1@2 files
+2026/10/01-10:13:28.581 4f4 Generated table #11@1: 30674 keys, 1410534 bytes
+2026/10/01-10:13:28.581 4f4 Compacted 1@1 + 1@2 files => 1410534 bytes
+2026/10/01-10:13:28.582 4f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:13:28.582 4f4 Delete type=2 #8
+2026/10/01-10:13:28.583 4f4 Delete type=2 #10
+2026/10/01-10:13:28.752 4544 Level-0 table #13: started
+2026/10/01-10:13:28.766 4544 Level-0 table #13: 1158383 bytes OK
+2026/10/01-10:13:28.767 4544 Delete type=0 #9
+2026/10/01-10:13:28.773 4630 Compacting 1@1 + 1@2 files
+2026/10/01-10:13:28.809 4630 Generated table #14@1: 32108 keys, 1471350 bytes
+2026/10/01-10:13:28.809 4630 Compacted 1@1 + 1@2 files => 1471350 bytes
+2026/10/01-10:13:28.809 4630 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:14:09.642 4f4 Level-0 table #16: started
+2026/10/01-10:14:09.676 4f4 Level-0 table #16: 1101585 bytes OK
+2026/10/01-10:14:09.677 4f4 Delete type=2 #11
+2026/10/01-10:14:09.677 4f4 Delete type=0 #12
+2026/10/01-10:14:09.677 4f4 Delete type=2 #13
+2026/10/01-10:14:09.688 4630 Compacting 1@1 + 1@2 files
+2026/10/01-10:14:09.733 4630 Generated table #17@1: 38682 keys, 1791000 bytes
+2026/10/01-10:14:09.733 4630 Compacted 1@1 + 1@2 files => 1791000 bytes
+2026/10/01-10:14:09.733 4630 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:14:10.340 4f4 Level-0 table #19: started
+2026/10/01-10:14:10.375 4f4 Level-0 table #19: 1051074 bytes OK
+2026/10/01-10:14:10.376 4f4 Delete type=2 #14
+2026/10/01-10:14:10.376 4f4 Delete type=0 #15
+2026/10/01-10:14:10.377 4f4 Delete type=2 #16
+2026/10/01-10:14:10.379 4f4 Compacting 1@1 + 1@2 files
+2026/10/01-10:14:10.413 4f4 Generated table #20@1: 40955 keys, 1877461 bytes
+2026/10/01-10:14:10.413 4f4 Compacted 1@1 + 1@2 files => 1877461 bytes
+2026/10/01-10:14:10.414 4f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/01-10:14:10.414 4f4 Delete type=2 #17
+2026/10/01-10:14:10.414 4f4 Delete type=2 #19
+2026/10/01-10:14:32.247 4f4 Level-0 table #22: started
+2026/10/01-10:14:32.261 4f4 Level-0 table #22: 1056103 bytes OK
+2026/10/01-10:14:32.262 4f4 Delete type=0 #18
+2026/10/01-10:14:32.270 4f4 Compacting 1@1 + 1@2 files
+2026/10/01-10:14:32.311 4f4 Generated table #23@1: 45470 keys, 2071716 bytes
+2026/10/01-10:14:32.311 4f4 Compacted 1@1 + 1@2 files => 2071716 bytes
+2026/10/01-10:14:32.311 4f4 compacted to: files[ 0 0 1 0 0 0 0 ]
